@@ -132,6 +132,4 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@P_Debjit](https://twitter.com/P_Debjit)<br/> 
-LinkedIn - [Debjit Pramanick](https://www.linkedin.com/in/debjit-pramanick-7a6a971b1/)<br/> 
-Project Link: [https://github.com/DebjitPramanick/Blockchain-Crowdfunding-App](https://github.com/DebjitPramanick/Blockchain-Crowdfunding-App)
+LinkedIn - [SALIM DIDA](LINKEDIN.COM/IN/SALIM-DIDA-31427A230/)<br/> 
